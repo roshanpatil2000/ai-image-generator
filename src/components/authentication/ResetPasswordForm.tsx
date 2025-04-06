@@ -32,7 +32,7 @@ const ResetPasswordForm = ({ className }: { className?: string }) => {
   });
 
   function onSubmit(values: z.infer<typeof formSchema>) {
-    console.log(values);
+    // console.log(values);
   }
 
   return (
