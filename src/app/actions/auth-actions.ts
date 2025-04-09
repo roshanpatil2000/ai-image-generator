@@ -1,10 +1,10 @@
 'use server'
 
-import { revalidatePath } from 'next/cache'
+// import { revalidatePath } from 'next/cache'
 import { redirect } from 'next/navigation'
 
 import { createClient } from '@/lib/supabase/server'
-import { promises } from 'dns'
+// import { promises } from 'dns'
 
 interface AuthResponse{
     error: null | string
