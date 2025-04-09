@@ -18,7 +18,6 @@ import {
 } from "@/components/ui/sidebar";
 import Link from "next/link";
 import { cn } from "@/lib/utils";
-import path from "path";
 
 // This is sample data.
 const navItems = [

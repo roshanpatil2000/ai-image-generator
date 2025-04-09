@@ -1,4 +1,4 @@
-import { SpaceIcon, Sparkles, SparklesIcon } from "lucide-react";
+import { SparklesIcon } from "lucide-react";
 import Link from "next/link";
 import React from "react";
 
